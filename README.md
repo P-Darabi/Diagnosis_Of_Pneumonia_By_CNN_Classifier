@@ -1,2 +1,2 @@
 # Convolutional_Neural_Network
-In this repository, I will demonstrate the progress of an image classification project that aims to distinguish between healthy individuals and those with pneumonia.  
+In this repository, I will demonstrate the progress of an image classification project that aims to distinguish between healthy individuals and those with pneumonia. The first step involves implementing a simple two-class classification using CNN to diagnose pneumonia in patients. For the second step, I will utilize the Keras and TensorFlow frameworks to build a more customized network structure. Finally, in the last step, I will rewrite the project using the PyTorch framework to explore different approaches and improve the overall performance. 
